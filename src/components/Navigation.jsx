@@ -22,6 +22,7 @@ export default function Navigation() {
             <Link to="/contact" className="nav-link">Contact</Link>
           </li>
         </ul>
+        <div className="made-by">Made by Pawan Wagh</div>
       </div>
     </nav>
   )
